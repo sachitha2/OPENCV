@@ -1,0 +1,7 @@
+
+I installed this library
+	pip install opencv-contrib-python
+	pip install caer
+
+Reading imagesand video
+
