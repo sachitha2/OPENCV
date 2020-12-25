@@ -1,4 +1,4 @@
-1H 05 min wenalan baluwa
+1H 20 min wenalan baluwa
 
 
 I installed this library
@@ -9,4 +9,6 @@ Reading imagesand video
 
 
 Color spaces 
+	HSV (hue, saturation, value, also known as HSB or hue, saturation, brightness) 
+	LAB 
 
