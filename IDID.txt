@@ -1,4 +1,4 @@
-2H 11Min min wenalan baluwa
+2H 35Min min wenalan baluwa Face detection thiyenne
 
 
 I installed this library
