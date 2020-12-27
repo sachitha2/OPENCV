@@ -25,7 +25,9 @@ cv.imshow('LAB',lab)
 rgb = cv.cvtColor(img,cv.COLOR_BGR2RGB)
 cv.imshow('RGB',rgb)
 
-plt.imshow(rgb)
-plt.show()
+lab_bgr = cv.cvtColor(lab,cv.COLOR_LAB2BGR)
+cv.imshow('HCV -> BGR',lab_bgr)
+
+
 
 cv.waitKey(0)
